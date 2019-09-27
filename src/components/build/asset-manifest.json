@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58a45fec.chunk.css",
+    "main.js": "/static/js/main.74742b86.chunk.js",
+    "main.js.map": "/static/js/main.74742b86.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.e159818f.js",
+    "runtime~main.js.map": "/static/js/runtime~main.e159818f.js.map",
+    "static/css/2.54af36f7.chunk.css": "/static/css/2.54af36f7.chunk.css",
+    "static/js/2.6b277a5f.chunk.js": "/static/js/2.6b277a5f.chunk.js",
+    "static/js/2.6b277a5f.chunk.js.map": "/static/js/2.6b277a5f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.469b46676177a51dcc81498a1344a9e2.js": "/precache-manifest.469b46676177a51dcc81498a1344a9e2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.54af36f7.chunk.css.map": "/static/css/2.54af36f7.chunk.css.map",
+    "static/css/main.58a45fec.chunk.css.map": "/static/css/main.58a45fec.chunk.css.map",
+    "static/media/card1.jpeg": "/static/media/card1.54da86b9.jpeg",
+    "static/media/card2.jpeg": "/static/media/card2.fcdc04b2.jpeg",
+    "static/media/card3.jpeg": "/static/media/card3.0b69273a.jpeg",
+    "static/media/card4.jpeg": "/static/media/card4.bdc2e656.jpeg",
+    "static/media/card5.jpeg": "/static/media/card5.2ca0c37a.jpeg",
+    "static/media/card6.jpeg": "/static/media/card6.62c7faaf.jpeg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/goku.pdf": "/static/media/goku.ed6c010c.pdf",
+    "static/media/me.png": "/static/media/me.f3595fb2.png"
+  }
+}
