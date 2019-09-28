@@ -36,7 +36,7 @@ app.post("/post-feedback", function(req, res) {
   res.write("Data received:\n" + JSON.stringify(req.body));
   res.write("You will be redirected shortly to the home page");
   res.write(
-    "<script>setTimeout(function(){ window.location.href = 'http://localhost:3000'; }, 3000);</script>"
+    "<script>setTimeout(function(){ window.location.href = 'https://goku-portfolio.herokuapp.com'; }, 3000);</script>"
   );
   res.write("</body></html>");
   res.send();
