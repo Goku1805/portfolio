@@ -4,7 +4,8 @@ var bodyParser = require("body-parser");
 var mongodb = require("mongodb");
 
 var dbConn = mongodb.MongoClient.connect(
-  process.env.MONGODB_URI || "mongodb://localhost:27017/resume"
+  process.env.MONGODB_URI ||
+    "mongodb://user:password123@ds019633.mlab.com:19633/heroku_dtl69fwz"
 );
 
 var app = express();
