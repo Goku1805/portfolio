@@ -75,11 +75,14 @@ class Contact extends Component {
                   {" "}
                   <i className="fa fa-linkedin"></i>
                 </a>
-                <a href="#">
+                <a href="https://github.com/Goku1805" target="_blank">
                   {" "}
                   <i className="fa fa-github"></i>
                 </a>
-                <a href="#">
+                <a
+                  href="https://www.youtube.com/channel/UCktpo6o9xZ_TMKSM4nVML3w/videos"
+                  target="_blank"
+                >
                   {" "}
                   <i className="fa fa-youtube"></i>
                 </a>
