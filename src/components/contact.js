@@ -11,7 +11,7 @@ class Contact extends Component {
             <form
               className="form-style"
               method="POST"
-              action="http://localhost:80/post-feedback"
+              action="https://goku-portfolio.herokuapp.com/post-feedback"
             >
               <h1>Hola!</h1>
               <h4>
