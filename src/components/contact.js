@@ -11,7 +11,7 @@ class Contact extends Component {
             <form
               className="form-style"
               method="POST"
-              action="src/db.js/post-feedback"
+              action="http://localhost:80/post-feedback"
             >
               <h1>Hola!</h1>
               <h4>
