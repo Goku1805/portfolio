@@ -8,11 +8,7 @@ class Contact extends Component {
       <div className="container">
         <div className="row bg-contact justify-content-center">
           <div className="col-6">
-            <form
-              className="form-style"
-              method="POST"
-              action="https://goku-portfolio.herokuapp.com/post-feedback"
-            >
+            <form className="form-style" method="POST" action="/post-feedback">
               <h1>Hola!</h1>
               <h4>
                 {" "}
