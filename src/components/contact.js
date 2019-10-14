@@ -6,21 +6,20 @@ class Contact extends Component {
   render() {
     return (
       <div className="container">
-        <h1>Hola!</h1>
-              <h4>
-                {" "}
-                I am based out of Delhi and will be happy to assist you with
-                your request
-              </h4>
-        {/* <div className="row bg-contact justify-content-center">
+        <div className="row bg-contact justify-content-center">
           <div className="col-6">
             <form
               className="form-style"
               method="POST"
               action=" https://poback.herokuapp.com/post-feedback"
             >
-              
-              <div className="form-group">
+              <h1>Hola!</h1>
+              <h4>
+                {" "}
+                I am based out of Delhi and will be happy to assist you with
+                your request
+              </h4>
+              {/* <div className="form-group">
                 <label htmlFor="exampleInputEmail1">Email address</label>
                 <input
                   type="email"
