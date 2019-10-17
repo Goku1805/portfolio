@@ -8,18 +8,20 @@ class Contact extends Component {
       <div className="container">
         <div className="row bg-contact justify-content-center">
           <div className="col-6">
-            <form
+            <h1>Hola!</h1>
+            <h4>
+              {" "}
+              I am based out of Delhi and will be happy to assist you with your
+              request. Feel free to contact!
+            </h4>
+
+            {/* <form
               className="form-style"
               method="POST"
               action=" https://poback.herokuapp.com/post-feedback"
             >
-              <h1>Hola!</h1>
-              <h4>
-                {" "}
-                I am based out of Delhi and will be happy to assist you with
-                your request
-              </h4>
-              {/* <div className="form-group">
+             }
+            {/* <div className="form-group">
                 <label htmlFor="exampleInputEmail1">Email address</label>
                 <input
                   type="email"
@@ -55,8 +57,8 @@ class Contact extends Component {
               </div>
 
               <input type="submit" className="btn btn-dark" value="Submit" />
-            </form>
-          </div> */}
+            </form>*/}
+          </div>
           <div className="row col-12 justify-content-center padding-custom">
             <div>
               <h2>Connect</h2>

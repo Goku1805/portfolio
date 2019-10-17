@@ -17,13 +17,12 @@ class LandingPage extends Component {
             </h3>
             <hr className="style1"></hr>
             <p className="lead d-flex justify-content-center">
-              HTML | CSS | Javascript | Core Java | React | Bootstrap | SQL |
-              Mongo | Node
+              HTML | CSS | Javascript | Core Java | React | Bootstrap | MySQL
             </p>
             <p className="align-para">
-              Gokul here, I have been working on React.js and node.js recently,
-              I have hands on experience on developing websites and web
-              applications. I am looking forward to working on challenging
+              Gokul here, I have been working on React.js and Javascript
+              recently, I have hands on experience on developing websites and
+              web applications. I am looking forward to working on challenging
               opportunties and projects which gives me a learning experience and
               grow my skills, I started working on Java inititaly and learned
               from scratch all by myself and worked on few projects. To know
