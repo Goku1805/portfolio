@@ -71,7 +71,7 @@ class Contact extends Component {
                   <i className="fa fa-facebook"></i>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/gokul-rajan-90a368169/"
+                  href="https://www.linkedin.com/in/gokul-parath-90a368169/"
                   target="_blank"
                 >
                   {" "}
